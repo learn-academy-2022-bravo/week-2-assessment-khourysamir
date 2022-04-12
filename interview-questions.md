@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:function(): required, currentValue: required, Index: optional, arr: optional, thisValue: required 
+  Researched answer:function(): required, currentValue: required, Index: optional, arr: optional, thisValue: required
 
 
 
@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Allows you to assign data in an object to different variables
 
-  Researched answer: Breaking apart an object and assigning them to varibles that can be called on over and over.
+  Researched answer: Breaking apart an object and assigning them to variables that can be called on over and over.
 
 
 6. STRETCH: What is hoisting in JavaScript?
@@ -60,7 +60,7 @@ Research and define the following terms to the best of your ability.
 
 2. React: React is a JS library and a user interface created by Facebook
 
-3. React state: Where you store values that belong to the component 
+3. React state: Where you store values that belong to the component
 
 4. React lifecycle methods: The methods change with each step of the lifecycle, "mounting, updating, unmounting"
 
